@@ -1,3 +1,3 @@
 
-[![Joseph Selvaraaj's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=jselvaraaj\&hide=stars,prs\&show=reviews,prs_merged\&show_icons=true\&hide_rank=true\&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#responsive-card-theme#gh-light-mode-only)
-[![Joseph Selvaraaj's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=jselvaraaj\&hide=stars,prs\&show=reviews,prs_merged\&show_icons=true\&hide_rank=true\&theme=github_dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#responsive-card-theme#gh-dark-mode-only)
+[![Joseph Selvaraaj's GitHub stats-Light](./profile/stats-light.svg#gh-light-mode-only)](https://github.com/stats-organization/github-readme-stats-action#readme#gh-light-mode-only)
+[![Joseph Selvaraaj's GitHub stats-Dark](./profile/stats-dark.svg#gh-dark-mode-only)](https://github.com/stats-organization/github-readme-stats-action#readme#gh-dark-mode-only)
