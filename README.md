@@ -1,6 +1,6 @@
 # Joseph Selvaraaj
 
-Grad student at MIT AeroAstro researching multi-agent reinforcement learning and autonomous systems.
+Grad student at MIT AeroAstro.
 
 [Website](https://jselvaraaj.github.io) ·
 [Google Scholar](https://scholar.google.com/citations?user=Cc_vgXYAAAAJ) ·
